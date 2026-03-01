@@ -1,0 +1,13 @@
+{
+  "accountAssociation": {
+    "header": "base",
+    "payload": "69962a80925e6a7a8e0a2472",
+    "signature": "base"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Base Verify App",
+    "iconUrl": "https://markussonic.github.io/icon.png",
+    "homeUrl": "https://markussonic.github.io/"
+  }
+}
