@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="base:app_id" content="69962a80925e6a7a8e0a2472" />
+<title>Base Verify</title>
+</head>
+<body>
+Base Verification Success
+</body>
+</html>
